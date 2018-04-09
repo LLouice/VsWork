@@ -247,7 +247,7 @@ en-
     enterprise = mill+aspiration = corporation+ambition
                = commerical entity+get-up-and-go(进取心)
                corporate  adj. 公司的 共同的 全体的
-        entrepreneur 企业家
+        entrepreneur 企业家   entrepreneurship  创业者 创业精神
     endeavor  n.v. 尝试 努力
         endeavor to do sth.
         strive 努力 奋斗   strive for
@@ -354,7 +354,7 @@ deliberate  故意的 有意的 v.慎重考虑 仔细思考
         literally 确实地 真正地  逐字地 简直
 
 
-concentrate 专注 聚焦
+concentrate 专注 聚焦  浓缩 提纯
 
 out-
     outcome 结果
@@ -456,7 +456,7 @@ acc- ass- att- all- aff- = to
     accord 符合 一致  n.协议 条约 和谐
         accroding 根据  accordingly 于是 从而
         of one's accord 自愿地 主动地 = without being asked = willingly = freely
-        in accord with 与...一致
+        in accord with 与...一致 按照 根据 合乎
     accuse 控告 cuse=curse 诅咒
         accuse sb. of sth.
         be accused of theft and fraud(欺诈)
@@ -512,7 +512,7 @@ acc- ass- att- all- aff- = to
     allay  减轻 缓和
     allocate 分配
     allot    分配
-    allergy  n. 过敏 反感
+    allergy  n. 过敏 反感  allergic
     allude   暗指 暗示 = imply   
         allude to sb./sth.  影射
         allusion
@@ -589,6 +589,7 @@ acc- ass- att- all- aff- = to
             deficient 匮乏的   
                 deficiency  缺乏 不足 缺点
                     deficiency disease  营养缺乏症
+                    famine  饥荒 极度缺乏
                 pinch  捏 掐 挤痛  凋谢 紧缺 节制  匮乏 少量 困苦
             proficient  be proficient in 熟练 精通
             efficient 效率高的 
@@ -1080,6 +1081,7 @@ re-
                     fuel 燃料  coal 煤  minerals 矿物
                         mine  矿山 矿藏 地雷  开采  mined
                             undermine  破坏
+                            famine  饥荒 极度缺乏
                 spoil  破坏 变质 溺爱  掠夺 废品 次品  
                 boil  煮沸  boil down  归结
         grocery 杂货
@@ -1528,7 +1530,7 @@ fund 基金
     underfund    投资不足
 financial 金融的
 currency  货币  monetary  货币
-    curricula 课程
+    curriculum  课程 全部课程  [pl] curricula 课程  adj. curricular
 
 consider 认为 考虑 体谅 照顾 深思
     consideration 体贴 关心  考虑  补偿费 报酬  尊敬
@@ -1664,7 +1666,7 @@ de- dis- di-
         frustrated 沮丧 挫败
         upset 沮丧 打乱 搅乱
     demonstrate 演示  证明  示威游行(parade  strike罢工 striking引人注目的)
-        domestic 国内的 内部的
+        domestic 国内的 内部的  驯养的  家仆 佣人
             dom 管辖
                 dominate 支配 控制 统治 占优势
                 dominant 统治地位 占优 显性
@@ -1747,7 +1749,7 @@ de- dis- di-
             chief 首席 主要的   chiefly = above all = mainly 主要地
     deplore  痛惜 悲悼  谴责
         deplorable  可悲的 凄惨的
-    detain   拘留
+    detain   拘留  耽搁
     destine  注定
         destiny  命运 天命
         destination  目的地
@@ -1822,6 +1824,8 @@ de- dis- di-
                 disperse (使)  分散
                 distribute  分发 散发  distribution
                 dispatch  派遣
+                disparate  不同的 全异的
+
 
                 dispose   处理
                     dispose of
@@ -2105,6 +2109,7 @@ con- com- 一起 共同
     continue
         continuous  连续不断的
         continuously  连续不断地 一直
+    contingent  偶然的事情  附随的 暂时的  分遣队
     continent  大陆  节制的
         continental  大陆的
     contain
@@ -2123,6 +2128,8 @@ con- com- 一起 共同
         counsel  劝告 建议 n.法律顾问
         State Council 国务院
     consulate n. 领事 领事馆  consul 领事
+
+    concur 意见相同 一致  互助
 
     convince  说服 信服 确信 使认错
         argue vt.坚决主张 提出理由证明 说服 劝告 表明 vi.争论 辩论 提出理由
@@ -2220,6 +2227,7 @@ con- com- 一起 共同
         conference  会议  协商 讨论 联盟
             meeting  assembly 部件 集会 会议
     confess 承认 坦白 供认 忏悔
+    confidential  机密的  获他人信赖的 易于信任他人的
     confirm 证实 确认 巩固 加强
         verify  核实  affirm 证实 确认
     conform 符合 遵守to  一致with
@@ -2247,6 +2255,7 @@ con- com- 一起 共同
         solid  固体 固体的
     concordance  和谐 一致性
         coordinate 坐标  协调   同等的 并列的
+            coordinates  (女子的)配套衣服
     condemn 强烈谴责  condemation
         damn  该死的  谴责 
     concede     承认 迁就 让步
@@ -2300,6 +2309,7 @@ con- com- 一起 共同
                                                     dissociate 分离 游离
                                                     depart 离开 发动  背离 放弃
                                                     detach 分离 脱离 异
+                                                    disparate  不同的 全异的
                                                     sever  断绝 截断
                                 violent  violence 暴力
                                     violin  小提琴
@@ -2508,6 +2518,9 @@ mementro mori 死亡象征
 Superme Court 最高法院
     court 法院 球场  vt.招致 设法获得  求爱
         court attention at all cost  不惜一切代价获得关注
+        courtship  求爱 求婚
+        courtesy  礼貌
+        
 
 knock out 击倒  踢出
 block  阻止  块  街区
@@ -2719,7 +2732,7 @@ as a matter of fact  其实 实际上
     faction 派别
     factor  因素
     factual 事实的
-    faculty 系 学院
+    faculty 系 学院  能力 才能  特权 特许
     favor 赞成 支持 n.同意 偏爱
         do me a favo
         in favor of 支持 有利于
@@ -2831,7 +2844,7 @@ practice  n.练习实践  惯例  v.执行 表演
                         expense 开支  expenditure 开支
                         pensions 养老金
                             suspension 悬浮 暂停(pause time out suspend)
-                                halt 边走边停
+                                halt 边走边停  瘸的  停止 犹豫 畏缩
                                 cease 停止 中止
                         compensate  补偿 赔偿
                     purse  钱包
@@ -3088,7 +3101,7 @@ ex-
         anticipate  预料 期望  anticipation
             anticipate sb. doing sth. 预料某人做某事
             anticipate demand more precisely 更精确地预测需求
-    expert 专家
+    expert 专家  内行的 熟练的
         expertise  专业知识
         specialist 专家
     express 表达 表示   特快的 明确的
@@ -3118,6 +3131,7 @@ ex-
         exclusive 独有的 排他的  高档的  exclusive club 私人会所
             inclusive 包括的  inclusivness 包容性
             exclusivness 排他性
+        elusive  难懂的 难捉摸的  逃避的
     exhaust 使筋疲力尽 耗尽  n.排气装置 废弃
         exhausted 筋疲力尽的 耗尽的   exhaustion
             enthusiastic  热情的  enthusiasm 热情
@@ -3206,6 +3220,7 @@ e- = out
         eradicate 彻底消除 
     elaborate
     emit  发射 发出 散发
+    erode  腐蚀 侵蚀
 
 
 manner = way 方式  举止 礼貌
@@ -3672,7 +3687,7 @@ im-
         implicate  暗示   牵涉 涉及(某人)  表明(或意指)...是起因
         implicit  含蓄的 暗示的 隐式的  盲从的
             an implicit declaration  一个隐含的声明
-    impact 碰撞 影响
+    impact 碰撞 影响  vt. 挤入 压紧 撞击
         brace for impact  迎接撞击
     impinge  影响 冲击
     imitate
@@ -3983,7 +3998,7 @@ emerge  出现 涌
         approximately  大约
         appropriate 占用 私占 挪用 adj.适当的
             appropriately  适当地
-        appreciate  欣赏 感激   增值 涨价
+        appreciate  欣赏 感激  vt. 领会 充分意识  vi. 增值 涨价
             gratitude  感激
             obliged
             depreciation  贬值
@@ -4166,7 +4181,7 @@ threat n.威胁 恐吓  v.threaten
                     berry  berries  浆果
                     boundary   边界
                         frontier  边疆 边界
-        fertilizer  肥料  fertilize  施肥  使受孕
+        fertilizer  肥料  fertilize  施肥  使受孕  feritilise feritilize
                     
 
                         harm
@@ -4174,7 +4189,7 @@ threat n.威胁 恐吓  v.threaten
                             n. harmony concordance accord accordance
                             in harmony in   concordance with  in accord
                                 ceremony 仪式 典礼
-                        harsh 严苛的 刺耳的
+                        harsh 严苛的 刺耳的  粗糙的 使人不舒服的  大约的
                             sharp 锋利的 尖锐的
                         pharmaceutical  药方的  medical
                         
@@ -4302,6 +4317,7 @@ anthropology 人类学
             therapeutically 在治疗上地
     ecologically  生态学地
         eco- 生态
+            ecosystem  生态系统
             ecocide  生态灭绝
             economy  ecomomic
     chronological  按年代顺序排列的
@@ -4367,6 +4383,8 @@ form 表格 方式 形状  vt.形成
 
 shall 应该 将要
 
+cue  信号 线索 球杆  vt. 暗示 使用球杆打球
+
 ele-
     elect 选举 elected 当选
     element
@@ -4426,6 +4444,7 @@ merely 仅仅
     sheer 纯粹的 全然的
 ever  曾经 永远 究竟 到底 可能
 even  甚至 偶数 均实 平均
+    evenly  平衡地 平坦地 平等地
 whereas 然而 反之 鉴于
     elsewhere  在别处
 whereby  凭借 借以
@@ -4614,11 +4633,17 @@ occur 发生
     cur- 发生
         occurrence 发生 出现 事件片段
         incur  招致 带来 遭受
+        concur 意见相同 一致  互助
+        recur  复发
+            recursive 递归
+            recurrence 循环 再起 复发
+            recuring 复发
         current  当前的 流通的  气流
         currency
     occupy 占据 使从事
         be occupte in
                 occupation  职位
+
 
 same sem sim sym
     resemble 像
@@ -4879,6 +4904,7 @@ quality 质量 品质 优点
     be equivalent to 等同的
         equipment 装备
     equivocal 模棱两可的 = ambiguous  vogue 模糊的
+    equator  赤道
 quantity 数量
     quantitative 定量的  数量的
     quanlitative analysis  定性的分析
@@ -5041,7 +5067,7 @@ abuse 滥用 辱骂 虐待 恶言
 
 wear and tear 磨损
     tear 撕裂 眼泪  过:tore 撕碎 (使)分裂 扯破    过分:torn
-    bear 忍受 承担 持有 熊   过:born   过分:borne
+    bear 忍受 承担 持有 熊  结果实 生子女  过:born   过分:borne
         the constitutional right to bear arms
         Please bear me for second 请先听我说
         bearing  关系 举止 风度  生育  轴承
@@ -5078,7 +5104,7 @@ rape  强奸
 
 is it any wonder that 这有什么奇怪吗
 
-damp 潮湿
+damp 潮湿  毒气 湿气 丧气  呛 抑制 衰减
     dampen 抑制 使潮湿 挫伤
 
 deputy 副的  副手 代理人
@@ -5171,6 +5197,7 @@ cape  披肩 斗篷 海角
 
 wit 机制 才智 富有机智的人
 wizard  向导 巫师
+    hazard  冒险 危险 危害  冒...的危险 赌运气
 witch   巫婆
     ditch  沟 抛弃
 bewitch  蛊惑 入迷   bewitched
@@ -5202,7 +5229,7 @@ bury 埋葬 隐藏
     bury one's head in sand 逃避现实 = avoid = evade = 逃避
 burn 烧
 burden  负担
-budget  预算
+budget  预算  节省开支  不贵的 廉价的
 
 orient 定..的方位  东方的
     oriental 东方人 东方[地理]
@@ -5210,7 +5237,7 @@ orient 定..的方位  东方的
     orientation 方向
         sexual orientation 
 
-dynamic
+dynamic   dynamics 力量 力学
 dynasty
     density  密度  adj.dense  稠密的
     dental  牙齿的
@@ -5259,7 +5286,7 @@ cow  母牛
 
 neural 神经的
 nuclear energy 核能
-    enemy 敌人  foe
+    enemy 敌人  foe 敌人 反对物 有害物
         envy  羡慕 嫉妒
     arm  武装
         armed forces 军队
