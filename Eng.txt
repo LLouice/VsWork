@@ -371,6 +371,7 @@ out-
     outdated  过时的
     outspeak  直言不讳
     outfit    全套装备   fitting  配件 设备
+        fitness  适合度  健康 
 
 
     pass out  分发  昏厥
@@ -1272,12 +1273,13 @@ per- 彻底地
     peril  危险
     perverse  不正当的 有悖常理的
         perverse  incentive  不正当的激励
+    peripheral  不重要的 外围的  外围设备 
 
 pene- = through
     penetrate  穿透 渗入
         penetrating  adj. 敏锐的 有洞察力的
             penetrating odor ~= evil-smelling 
-                odor  气味 名声
+                odor  气味 名声 odour
             penetraing voice
         penetrative  渗透的 深刻的
     
@@ -1440,7 +1442,7 @@ pro-
                     lung 肺
                         at the top of lungs  尽可能响亮的
                         kidney 肾  liver 肝 pancreas 胰腺
-                        organ 器官
+                        organ 器官  风琴 机构 机关报刊
                             organic  有机的
                             organize  组织  orgainism  生物 社会组织 有机体
                             organization  organizational
@@ -1466,7 +1468,7 @@ pro-
             bid farewell to your history/by gones 告别你的过去
                 bid 出价 投标
         block
-        habitual 居住的 居民的   habitation 居住
+        habitual 居住的 居民的   habitation 居住  habitat  产地 栖息地
     prophet  预言家 先知
     protein  蛋白质
     protocol  协议
@@ -1497,8 +1499,9 @@ pri-
         premier  首要的 第一的  总理 首相
     primitive  原始的 发展水平低的
         primeval  原始的 太古的
-    principal 最重要的 主要的  n.大学校长
+    principal 最重要的 主要的  n.大学校长 负责人 资本
     principle 原则
+        peripheral  不重要的 外围的  外围设备 
     prince    王子
     prison    狱
         imprison  监禁
@@ -2035,6 +2038,7 @@ con- com- 一起 共同
             despise  鄙视
             look down
                 look up to  抬头看  尊敬 仰慕
+                look-in  看望 成功的机会
             scorn
             slight
             underrate  低估 看轻
@@ -2248,7 +2252,7 @@ con- com- 一起 共同
             implicit  含蓄的 暗示的 隐式的  盲从的
     consist 包含 由...组成
         consist in/of 包含
-    consistent  一致的 连续的 坚持的
+    consistent  一致的 连续的 坚持的  和谐的
         consistently  一贯地 坚持地
         be consistent with  与...一致
     consolidate  巩固 统一 合并  n. consolidation
@@ -2594,7 +2598,7 @@ species  物种
     especially 特别 尤其
     particularly 尤其 格外
         particularsim 特色
-    participate  参加 in     take part in
+    participate  参加  分享某事 in     take part in
         participation 　n. 参加 参与 分享　
         participatory　供人分享的　
         -cipate = take
@@ -2619,13 +2623,14 @@ pessmistic  悲观的      negative 消极的  passive 被动的 消极的
 optimistic  乐观的      positive
     optimism  乐观主义
     optimal  最优的   optimization
+    optimum  最适宜的
 
 
 
 
 attiude  态度
 altitude 海拔
-latiude  纬度
+latitude  纬度  界限 自由选择权
 longitude 经度
 aptitude 天分 天资
 platitude 陈词滥调
@@ -2638,7 +2643,8 @@ platitude 陈词滥调
 gratitude  感激 感谢
     be grateful of/for/to
     gratify 使满足 使高兴  gratification 喜悦 满足
-multitude  大量  大众    
+multitude  大量  大众   
+    multifaceted  多方面的
 
 for- 向前 form-
     form  形式 方式 表格 v.形成 组成 排列 组织 产生 塑造
@@ -2801,7 +2807,7 @@ seize  抓住 夺取 逮捕  理解
 
 evidence
     evident 明显的  it is evident that
-        self-evident
+        self-evident  不言而喻的 不言自明的
         previous
         apparent 明显的
             apparently
@@ -3105,7 +3111,7 @@ ex-
         expertise  专业知识
         specialist 专家
     express 表达 表示   特快的 明确的
-        expression 表达 表示 表情 神情
+        expression 表达 表示 表情 神情   re-express 重申
         oppression 压迫
     explore 探索
         deplore  痛惜 悲悼  谴责
@@ -3190,7 +3196,7 @@ ex-
         magnify 放大 赞美 夸大
             magnifier 放大镜 放大器
             magnitude  大小 量级 巨大 重大 重要性
-            magnetic  有磁性的  有吸引力的
+            magnetic  有磁性的  有吸引力的 催眠的
     extract  提取
 
     extravagant  奢侈的 浪费的
@@ -3474,7 +3480,7 @@ in-
                 voluntary  自愿的
                     volunteer 志愿者
                 vulnerable 脆弱的 易受影响的(susceptible)
-                    fragile 脆弱的 易碎的
+                    fragile 脆弱的 易碎的  精细的
                         -frag  碎的
                         fracture 骨折
                         a fraction of 一小部分
@@ -3489,6 +3495,7 @@ in-
                             intrigue  密谋 阴谋 捣鬼
                                 intriguing  令人好奇的
                             disguise  伪装
+                            plagiarise  抄袭 剽窃 = plagiarize
 
                     brittle 脆弱的 易碎的 
                         bottle 瓶子
@@ -3678,6 +3685,8 @@ in-
     indignity  侮辱
     inept  笨拙的 无能的 愚蠢的 不称职的 不恰当的
         ineptly  不熟练地 不恰当地 无能地
+    indigenous  本土的 当地的
+    intrinsic   本质的 内在的
 
 im-
     implication  含义 暗示  含蓄  卷入 牵连 牵涉 可能的影响(或作用 结果)  蕴含
@@ -3715,7 +3724,7 @@ im-
         carefree (whatever) 无所
     impart  传授 告知 透露
         apprentice  学徒 徒弟
-    impair  损害 削弱 减少
+    impair  损害 削弱 减少  impaired 受损的 减弱的 身心障碍的
         repair 修理
         pair  一对
     imprudent  马虎的
@@ -3723,7 +3732,7 @@ im-
         plight   困境 誓约  保证 约定
     impudent  ↓ 无礼的
     immobile  不动的 固定的
-    imperative  势在必行
+    imperative  势在必行  n. 命令 诫命 需要   命令式的 急需的
 
 illuminate 照亮  说明 阐明
     illuminating   富有启发的
@@ -3778,7 +3787,7 @@ ob- op- of- 阻碍 反对 ↓
         eligible 有资格的  be eligible for = be qualified for
     oblivion  湮没 遗忘  赦免
 
-        offend offence 冒犯 犯罪  offensive
+        offend offence 冒犯 犯罪  offensive 冒犯的 侮辱的 攻击用的 n.进攻
             offensive weaponry  攻击性武器系统
             defend  defence
         offset  偏移 抵消  n. 平版印刷物  adj. 移动的
@@ -3998,7 +4007,7 @@ emerge  出现 涌
         approximately  大约
         appropriate 占用 私占 挪用 adj.适当的
             appropriately  适当地
-        appreciate  欣赏 感激  vt. 领会 充分意识  vi. 增值 涨价
+        appreciate  欣赏 感激  vt. 领会 充分意识  鉴别 vi. 增值 涨价
             gratitude  感激
             obliged
             depreciation  贬值
@@ -4006,7 +4015,7 @@ emerge  出现 涌
         appraise 评估   n.appraisal
             praise  赞美
             phrase  短语 措辞  叙述
-            phase   阶段 时期 相位
+            phase   阶段 时期 相位  v. 逐步执行 实行 按计划进行
                 emphasis n. 重点
                 stage  舞台  阶段  上演
         appetite   胃口 食欲
@@ -4185,12 +4194,13 @@ threat n.威胁 恐吓  v.threaten
                     
 
                         harm
-                        harmonious 和谐的 blanced
+                        harmonious 和谐的 blanced    vt. harmonise  harmonize
                             n. harmony concordance accord accordance
-                            in harmony in   concordance with  in accord
+                            in harmony   in concordance with  in accord
                                 ceremony 仪式 典礼
                         harsh 严苛的 刺耳的  粗糙的 使人不舒服的  大约的
                             sharp 锋利的 尖锐的
+                            keen  锋利的 敏锐的 强烈的 精明的 热衷于
                         pharmaceutical  药方的  medical
                         
     boom 繁荣 暴涨
@@ -4239,7 +4249,9 @@ elaborate 精心制作的 详尽的 详细阐述
 mobile n.事业 生涯  adj.移动的
     mobility  流动性
     motion    运动 动作 动力 手势 动机 意图 议案 提案 
+    motif     主题  意念 动机
     mention   提及 说到
+
 
 career  事业 生涯
 occupation  职位
@@ -4323,6 +4335,7 @@ anthropology 人类学
     chronological  按年代顺序排列的
     apology  apologize 
     terminology  术语
+    meteorology  气象学  meteorolgical  气象的
 
 -graph 图
     photograph  照片
@@ -4384,6 +4397,14 @@ form 表格 方式 形状  vt.形成
 shall 应该 将要
 
 cue  信号 线索 球杆  vt. 暗示 使用球杆打球
+
+keen  锋利的 敏锐的 强烈的 精明的 热衷于
+
+arena 活动场所 舞台
+
+lopsided  倾向一方的  不平衡的
+=================================================================
+
 
 ele-
     elect 选举 elected 当选
@@ -4782,7 +4803,7 @@ para-  部分  偏
             carefree (whatever) 无所谓
         particle  微粒 粒子
     Paralympics  残奥会
-    paralyze  偏瘫
+    paralyze  偏瘫 使瘫痪 使麻痹
     paranoia  偏执狂
     parasite  寄生虫
     parameter  参数
@@ -4922,7 +4943,7 @@ am- 爱
         ambience  氛围  ambient
         consulate n. 领事 领事馆  consul 领事
         embarrass  尴尬的
-        embrace  拥抱 欣然接受 环绕
+        embrace  拥抱 欣然接受 环绕  包含 包括
             brace 支撑   准备 预备
             bracket 括号
         
@@ -5106,6 +5127,7 @@ is it any wonder that 这有什么奇怪吗
 
 damp 潮湿  毒气 湿气 丧气  呛 抑制 衰减
     dampen 抑制 使潮湿 挫伤
+    moisture  潮湿 湿气
 
 deputy 副的  副手 代理人
     deputy mayor 副市长
@@ -5298,6 +5320,7 @@ nurture 培育 滋养
 nourish 滋养 养育
 nutrition 营养品  nutrients 营养成分
     under-nutrition  营养不良
+nourishment
 
 cap- 1.head  2.catch
     capital  首都 资本
@@ -5536,7 +5559,7 @@ Assembly  市政议会
             concordance  和谐 一致性
             cooperate  合作 协作 配合  cooperation 协作
                 corporate  adj. 公司的 共同的 全体的
-                    incorporate  包含 合并
+                    incorporate  包含 合并  incorporated 一体化的
             ordinary  普通的 平常的
             extraordinary  非凡的
 
@@ -5658,7 +5681,7 @@ lump  块 肿块 一团
     tumour = tumor 肿瘤
 lamp  灯  照亮
 lamb  羊羔  goat 山羊
-limb  四肢  边缘
+limb  四肢  树枝 边缘  vt.切断手足 切断树干
 
 body  具体的
 role model  榜样
@@ -5721,7 +5744,7 @@ bright  明亮的 鲜亮的 聪明的 辉煌的
 
 get in the way  挡道 妨碍
 
-hinder  　v. 阻碍 妨碍
+hinder  　vt. 阻碍 妨碍  后面的
     hint 暗示 提示
     hunt 打猎   hunt for 猎寻
     haunt  萦绕心头
@@ -5845,6 +5868,7 @@ mal-  恶意的
         be malicious to = be hostile to 对..有敌意
     maltreat  虐待
         abuse 滥用 辱骂 虐待 恶言
+    malfunction  故障 发生故障 不起作用
     
 
 post ← 之后
