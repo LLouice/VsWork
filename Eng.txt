@@ -794,7 +794,7 @@ re-
                 swell  肿胀 膨胀   漂亮的 一流的
     record    记录
         accord 符合 一致
-    rely   rely for 依靠  reliant  依赖的 信赖的
+    rely   rely for 依靠  reliant  依赖的 信赖的  reliance  信赖 信赖的人或物
         reliability  可靠性
     reply  回复
     research
@@ -861,7 +861,7 @@ re-
         awards  奖项 判决  v.授予 判决
         aware   知道的
             be/become aware of  意识到
-    realize  实现 明白 意识到
+    realize  实现 明白 意识到  realise  觉悟 明白
     reality  现实
     realty   不动产 房地产
     readily  乐意地 容易地
@@ -1007,13 +1007,15 @@ re-
         roar 咆哮
             uproar  喧嚣
             growl at  咆哮   嘟哝 愤愤不平地抱怨
+            soar  高扬  往上飞舞 高耸 滑翔
         rumor 谣言
     resort 求助 采取 手段  胜地
         sort 分类 排序  协调  交往
         resort to 求助 = turn to
         consort 配偶 适合 相称 v.协调 
         assort  协调 把...分类  相称 交往
-        scenery 风景 
+        scenery 风景     landscape 风景 山水 地表 
+            scenic  风景好的  戏剧性的
             secret 秘密
             secure 安全 n. 保卫 确保  n.security  
                 securities  证券
@@ -1320,6 +1322,7 @@ pre-
                                 priority 优先权
         preceding 前面的
     predecessor  前任  前辈
+    preferential  先取的 优先的 选择的
 
     prevent
     preclude  排除 阻止 妨碍
@@ -1372,7 +1375,7 @@ pro-
         progressive 先进的 进步的 逐渐的
     provide   提供    假若 provide that = suppose = on condition that 
         supply 供给
-        provision  条款 规定 准备
+        provision  条款 规定 准备  供应品  食物
     province  省
     provoke 挑衅  provocative 煽动性的
         evoke 唤醒  evocative
@@ -1487,7 +1490,7 @@ pro-
         
 
 pri-
-    private
+    private  私   士兵 列兵
     privilege
         underprivilege 相对贫困 生活水平低下
         the underprivileged  弱势群体 贫困
@@ -1603,7 +1606,7 @@ de- dis- di-
             torture  酷刑 折磨 刑讯逼供
             distort 扭曲
             extort  ~恶意的拿走 -> 敲诈 勒索  extortion
-            notorious  臭名昭著的
+            notorious  臭名昭著的 n. notoriety
             terrible
             terrorist 恐怖分子
             terrorism 恐怖主义
@@ -1807,10 +1810,10 @@ de- dis- di-
                         extinct  灭绝的 绝种的 熄灭的  使熄灭
                             extinct volcano  死火山
                         extinction 灭绝
-                    languish  凋谢 枯萎 无力  ~= wither
+                    languish  凋谢 枯萎 无力  ~= wither = blight
                         lag- 落在后面 滞后
                             jet-lag  时差  reverse jet-lag  倒时差
-                        languiage  语言
+                        languiage  语言  linguistic  语言的
                         lacerate   撕碎
                             lace 鞋带 蕾丝边
 
@@ -1893,6 +1896,7 @@ de- dis- di-
                 
             divide 分割 划分  n.division 分割 部门 师  除法
                 dividen 被除数  股票 红利
+                subdivide  细分
             divert  转移
             diverse 多样的
                 diversion  转移注意的行为 分流 娱乐
@@ -1990,7 +1994,7 @@ noticeable  显而易见的  noticeably  明显地
     negligible  可以忽略不计的 微不足道的
 notion  理念 看法 观念
     ontions of significance  对重要性的理解
-notorious 臭名昭著的
+notorious 臭名昭著的 n. notoriety
 
 apprehension 理解
     comprehension 理解 
@@ -2125,7 +2129,7 @@ con- com- 一起 共同
         conductor  指挥
         deed   行为 契约 证书
         behavior
-        steer  驾驶 控制 引导
+        steer  驾驶 控制 引导  暗示
             steer away from  远离
     consult 咨询 请教 磋商
         consultant  咨询师
@@ -2257,6 +2261,7 @@ con- com- 一起 共同
         be consistent with  与...一致
     consolidate  巩固 统一 合并  n. consolidation
         solid  固体 固体的
+        solicit  勾引 乞求  设法获得某物   (妓女)拉客
     concordance  和谐 一致性
         coordinate 坐标  协调   同等的 并列的
             coordinates  (女子的)配套衣服
@@ -2315,7 +2320,7 @@ con- com- 一起 共同
                                                     detach 分离 脱离 异
                                                     disparate  不同的 全异的
                                                     sever  断绝 截断
-                                violent  violence 暴力
+                                violent  暴力的 极端的 曲解的 violence
                                     violin  小提琴
                                     volcano  火山
                         commit suicide
@@ -2473,6 +2478,7 @@ patri  patro
             feminism(female) 女权主义  feminist 女权主义者
         parent
         masculine   男性的
+        mammal 哺乳动物
 patrol  巡逻
 petrol  汽油
 protocol  协议
@@ -2510,7 +2516,7 @@ mod- med- mid- 中庸
 
 mementro mori 死亡象征
     memory
-    mortal 死   mortality
+    mortal 死  人世间的 致命的 终有一死的 凡人的  mortality
         immortal  不朽
         moral   道德
         mental 精神的
@@ -3015,6 +3021,7 @@ virtue 美德
             vice 罪恶  guility 有罪
             victim  受害者 牺牲者
             convict  定罪 判罪 n. 罪犯
+            vicinity  临近 周边地区
     virtuosity  n.精湛技艺  艺术鉴赏力
     virtual 虚拟的    实质上的 事实上的
         virus 病毒
@@ -3163,7 +3170,7 @@ ex-
     extreme 极端的   extremely
         ultimate ultimately 最终地
         ulmost  极度的 最大的
-        radical  根本的 彻底的 激进的   radicalism 极端主义
+        radical  根本的 彻底的 激进的  原子团   radicalism 极端主义
             eradicate 彻底消除
             radiate  辐射 发射  radiation
                 radio  无线电
@@ -3418,7 +3425,7 @@ generate 生成 产生 造成 引起
 
 phenomenon 现象
 
-dramatic 戏剧性的 引人注目的
+dramatic 戏剧性的 引人注目的  scenic
     dramatic technological changes 巨大的技术变革
     dramatize  戏剧化 把(小说等)改编成戏剧  夸张 渲染
 
@@ -3445,7 +3452,7 @@ in-
     intense 强烈的 热情的   intesity 强度
         intense pain/emotion
         intension 紧张 
-        tense  紧张的 拉紧的  时态  n. tension
+        tense  紧张的 拉紧的  时态  n. tension 紧张 张力 拉力
     intensive 密集的 (intensive industry)
     incentive  adj.激励的 n.动机 刺激 鼓励
     incline
@@ -3751,7 +3758,7 @@ setback  挫折 缺陷 退步 阻碍
 
 depth and breadth 深度和宽(广)度
 
-settle 解决  定居  解释
+settle 解决  定居  解释  有背的长凳  付清(欠款)  降落
     settle for 满足于 
         settle for a bit of(一点点) of everthing
 
@@ -3968,6 +3975,7 @@ trans-
     transmit  传输 发送
         transmission
         transmissible  可传达的
+    transit  经过 运输  穿越 旋转
     transaction  事务 交易 业务
             traffic 交通
     transport  运输  使狂喜
@@ -4013,7 +4021,7 @@ emerge  出现 涌
             depreciation  贬值
         apprise  通知 告知
         appraise 评估   n.appraisal
-            praise  赞美
+            praise  赞美  称赞 崇拜 归荣誉于
             phrase  短语 措辞  叙述
             phase   阶段 时期 相位  v. 逐步执行 实行 按计划进行
                 emphasis n. 重点
@@ -4285,7 +4293,7 @@ anthropology 人类学
                 rat race  激烈的竞争
                     rat   老鼠
                     take their turn in the rat race  在激烈的竞争中轮到他们
-                rate  速度 比率 等级  vt.估价 值得 责骂 认为 把...算作
+                rate  速度 比率 价格 等级  vt.估价 值得 责骂 认为 把...算作  受推崇
                 rotate  旋转(围他转)
                 ration  定量配给
         ethnology  人种
@@ -4403,6 +4411,8 @@ keen  锋利的 敏锐的 强烈的 精明的 热衷于
 arena 活动场所 舞台
 
 lopsided  倾向一方的  不平衡的
+
+tropical  热带的 炎热的  热带植物
 =================================================================
 
 
@@ -4411,6 +4421,7 @@ ele-
     element
         elementary  初级的 基本的
             elemantary education
+            rudimentary  基本的 初步的 根本的
     elevate 举起 提升
         lev- 轻
             elevator 电梯  lift
@@ -4667,7 +4678,7 @@ occur 发生
 
 
 same sem sim sym
-    resemble 像
+    resemble 像 相似 类似 = look like
     simulate 模仿 假装
         simultaneously 同时地 = meanwhile = likewise 同样 也
         stimulate  激  激励 鼓舞   stimulation  stimulus  刺激物
@@ -4675,6 +4686,7 @@ same sem sim sym
             sting  叮 刺
             spike  长钉 用尖物刺伤 打乱某人的计划  穗
         imitate 模仿   imitation
+        mimic   模拟 纺织品 效颦者 小丑
         emulate  仿真   竞争 努力赶上
         formulate 明确表达 规划 策划 构想  formulation
     similar  similarity
@@ -4808,6 +4820,7 @@ para-  部分  偏
     parasite  寄生虫
     parameter  参数
         argument  形参
+    paramount  极为重要的
     
     
 
@@ -4815,6 +4828,7 @@ sl- st-
     slice 片 切片
     slide 滑动  幻灯片
         mudslide  泥石流  landslide 土地流失  人流 abortion
+                            landscape 风景 山水 地表
         glide  滑行 滑翔
     sleek  光滑的
     slip  滑  疏忽 小错
@@ -4849,7 +4863,7 @@ sl- st-
     stream 流
 
     steady  稳定的 不变的  steadily
-    stable   stabilize 使稳定  stablity
+    stable  稳定的  马厩   stabilize 使稳定  stablity
     steal  偷
     steel  钢
     stealth 隐形
@@ -5318,9 +5332,12 @@ nuclear energy 核能
 neutral   中立的
 nurture 培育 滋养
 nourish 滋养 养育
+    nourishment
 nutrition 营养品  nutrients 营养成分
     under-nutrition  营养不良
-nourishment
+    nutrient  营养的 营养品
+nocturnal  夜的 夜间时刻测定器
+
 
 cap- 1.head  2.catch
     capital  首都 资本
@@ -5394,6 +5411,7 @@ over-
                 emblem  (a sign of glory) 徽章
                 symptom  恶兆 症状
                 sign
+                    signal  信号 导火索 动机  发信号 标志  显著的
                 hallmark  质检证明 典型特征 = characteristic
 
                 apodictic 绝然的 明白的
@@ -5616,6 +5634,7 @@ astr- aster- astro- star-  星
     astronomy  天文学
         cosmic 宇宙
             cosmology  宇宙学
+            Mercury    水星 水银
         space 
             spatial  空间的
     astronaut  宇航员
@@ -5689,6 +5708,7 @@ role model  榜样
     remold  改造
     medal  奖章 勋章
     metal  金属
+    mould  模子  模压  发霉
     melt   熔化 溶解 融化
 
 -cident
@@ -5816,6 +5836,7 @@ swell  肿胀 膨胀   漂亮的 一流的
 
 survey  调查  俯瞰 眺望  全面审视  勘定
     follow-up survey  跟踪调查
+surveillance  监督 监视
 
 the common/general/ordinary run of sth.  普通类型
 
