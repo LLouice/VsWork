@@ -247,7 +247,8 @@ en-
     enterprise = mill+aspiration = corporation+ambition
                = commerical entity+get-up-and-go(进取心)
                corporate  adj. 公司的 共同的 全体的
-        entrepreneur 企业家   entrepreneurship  创业者 创业精神
+        entrepreneur 企业家   entrepreneurship  创业者 创业精神 
+        enterprising  有企业精神的 有进取心的 大胆的 有魄力的
     endeavor  n.v. 尝试 努力
         endeavor to do sth.
         strive 努力 奋斗   strive for
@@ -272,6 +273,7 @@ en-
         entrenched 根深蒂固的 = ingrain
     endorse  背书 签署 认同 拥护 合法化
     enrage   激怒
+    enrolment  n.登记 招收 入学
     
 em-  在里面
     embed  嵌入 植入
@@ -290,6 +292,7 @@ em-  在里面
         bracket 括号
     embryos  胚胎
     embody   体现 象征 包含
+    embark   乘船 着手 从事
 
 
 remark 评论 谈到  注意 观察
@@ -345,7 +348,7 @@ deliberate  故意的 有意的 v.慎重考虑 仔细思考
     intentional 故意的 = by design
     liter- 有文化
         literacy literature 文化 文学
-            civilzation 文明  civilized 开化的
+            civilization 文明  civilized 开化的
                 civil 公民的 文明的 有礼貌的 国内的
                 civility  礼仪
                 civic  公民的 城市的
@@ -375,6 +378,7 @@ out-
 
 
     pass out  分发  昏厥
+    screen out  筛选出
 
 majority 大多数
 minority 少数 少数民族 未成年(nonage underage immaturity(mature 成熟的))
@@ -536,6 +540,7 @@ acc- ass- att- all- aff- = to
                 attend to 注意 照顾
                 attentive ~(照顾) -> 细心的 周到的 留意的  殷勤的
                      attentively 注意地 聚精会神地 周到地
+            attenuate  变细 变薄 稀薄 变弱 衰减
 
             attribute n.属性 vt.归于
                 attribute A to B = owe A to B = ascribe A to B
@@ -778,6 +783,7 @@ re-
         arrange  安排  排列
     readmit  重新接纳
     reproductivity 生殖
+        reproduction  再现 复制 生殖 幼树
     reconsider 重新考虑
     represent 代表 表示 意味着
         representative  代表 众议员  有代表性的
@@ -913,7 +919,8 @@ re-
         优雅
             elegant  elegance
             grace(恩惠 优雅 为..增色 gracious亲切地 和蔼的)    
-            polish(抛光) charm(魅力)  poise(平衡 镇静 优雅)
+            polish(抛光) charm(魅力) 
+            poise(平衡 镇静 优雅  悬空 盘旋 使...平衡 为...做准备 保持...姿势)
             graceful polished charming attractive poised
                 gracious  内在有亲和力的
                 disgrace  耻辱
@@ -940,7 +947,7 @@ re-
     resent 怨恨 厌恶   resentment
     reverse 
     revere  敬畏 崇敬 尊崇
-    revert  还原
+    revert  还原 恢复 回到
     retreat 撤退  静养所
         treat  治疗 对待 当做  处理 请客 宴飨 n. 乐事 乐趣
             treaty 条约 公约
@@ -986,6 +993,7 @@ re-
         revitalize  使复兴  使恢复
             vital 至关重要的  有活力的
                 vitality n. 活力 生命力
+                vitally  adv. 重要地 极其 生命攸关地
             vivid  生动的
             rivial  对手
     Renaissance  文艺复兴
@@ -1119,6 +1127,7 @@ re-
         catholic  天主教
         Christian 基督
         Buddhism  佛教  Buddhist 佛教徒
+            muddy  泥泞的 肮脏的 混浊的 v. 弄脏 使混浊 使迷惑
         Islam     伊斯兰教
             The Muslim
         Holy Bible   圣经   Holy  神圣的
@@ -1278,7 +1287,7 @@ per- 彻底地
     peripheral  不重要的 外围的  外围设备 
 
 pene- = through
-    penetrate  穿透 渗入
+    penetrate  穿透 渗入 看穿
         penetrating  adj. 敏锐的 有洞察力的
             penetrating odor ~= evil-smelling 
                 odor  气味 名声 odour
@@ -1359,7 +1368,7 @@ pre-
     prescribe 开处方药 
         make a prescription  开药方   make up the prescription  抓药 配方 
         prescription 解决方案
-    preliminarily  初步地
+    preliminarily  初步地  预备地
     preface  序言 开端 开始 导致
 
 
@@ -1397,11 +1406,12 @@ pro-
         promising 很有前途的
         compromise  妥协 v.让步 连累
 
-    prompt  敏捷的 迅速地  v.激起 促进 推动 提示  准时地
+    prompt  敏捷的 迅速地  v.激起 促进 推动 提示  准时地  付款期限
         spur 鼓励 激励 促进 推动    n.马刺 刺靴
             urge 催促 推进 刺激 强烈要求  urgent
                 urban 
         promptly 迅速地 立刻地
+    promulgate  发布 公布 发表
 
     probably  大概 可能的  probable
         probability
@@ -1453,7 +1463,7 @@ pro-
         proven 经过证实的
     proverb  谚语
         As a classic proverb/saying goes,
-        verbal 口语的
+        verbal 口语的  用言辞的 用文字的
             nonverbal  非言语的
         verb  动词
     prominent  杰出的
@@ -1508,7 +1518,7 @@ pri-
     prince    王子
     prison    狱
         imprison  监禁
-    prior     居先
+    prior     居先  更重要的是  较早的
         be prior to
         priority 优先权 = precedence
         superior   superiority
@@ -1529,6 +1539,7 @@ fund 基金
         allowance 津贴
         welfare 福利
             wares  商品 货物
+        benefit  利益 津贴  义卖 
     fundamental  基本的 根本的   fundament
         foundation 基础 基金会
         found  创办 成立 建立  find的过去式
@@ -1566,13 +1577,14 @@ de- dis- di-
         devote to 致力于 将...奉献给 把...专用于
         devote oneself to = dedicate oneself to
         devotees  信徒
+        devotion  虔诚 祈祷 献身 奉献
     dedicate 奉献
     delicate 娇贵的 精巧的
     demand   要
         demanding  要求多的  吃力的
     decline 
     delay    拖延 
-    descend  下来 下降  突然造访 n. descent
+    descend  下来 下降  突然造访 降临 n. descent
         descendant 后代 下降的 派生的
             offspring  子女 孩子 后代 结果 产物
             posterity  后代 后裔
@@ -1591,6 +1603,7 @@ de- dis- di-
     detonate 引爆
     desire   渴望 欲望
         desirable  值得拥有的 受欢迎的
+        desirability  n. 称心如意的人或物  有利条件 愿望 渴求
     despite  尽管 虽然
     despise 鄙视
         = look down upon = turn up one’s nose at
@@ -1713,6 +1726,7 @@ de- dis- di-
     denominate  给...命名  称呼...为
     deny 否定
     design  designate 指定
+    deficit 赤字 不足 缺乏
     deficinet 匮乏的
     delete 
     detect 检测
@@ -1823,6 +1837,7 @@ de- dis- di-
                 disorder  紊乱
                 dissociate  分离 游离
                 discrete    分离
+                discrepancy 相差 差别
                 dispense    分配 
                     be dispensed from punishment 免于 免除
                     dispensable  可有可无的  非必需的
@@ -1861,6 +1876,7 @@ de- dis- di-
                 disrupt  破坏 扰乱 使混乱 使中断 分裂 瓦解
                     disruption 破坏 中断 分裂 瓦解 
                         collapse 瓦解 崩溃
+                distress  痛苦的 烦恼的
                 discourse  演讲 交谈
                 discourage 阻止 使泄气 使失去信心
                     courage  n.勇气 胆量  courageous adj.勇敢的 无畏的
@@ -1938,6 +1954,8 @@ de- dis- di-
                 be in a dilemma about whether to ... or to ...
                     i'm in a dilemma about whether to study abroad or
                         to pursue knowledge in domestic atmosphere
+            dinosaur  恐龙  过失落伍
+            diamond   钻石
             
 
 
@@ -2132,7 +2150,7 @@ con- com- 一起 共同
         steer  驾驶 控制 引导  暗示
             steer away from  远离
     consult 咨询 请教 磋商
-        consultant  咨询师
+        consultant  咨询师  consultation  请教 咨询  协议会
         counsel  劝告 建议 n.法律顾问
         State Council 国务院
     consulate n. 领事 领事馆  consul 领事
@@ -2171,7 +2189,7 @@ con- com- 一起 共同
             convenient  方便的
 
             
-    constitute 组成 构成  被视为  constitution 组成 章程  Constitution 宪法
+    constitute 组成 构成 建立 任命 被视为  constitution 组成 章程  Constitution 宪法
         包含 包括 由...组成
             be constituted by = be composed of
                 = be comprised of = consist of/in
@@ -2260,7 +2278,7 @@ con- com- 一起 共同
         consistently  一贯地 坚持地
         be consistent with  与...一致
     consolidate  巩固 统一 合并  n. consolidation
-        solid  固体 固体的
+        solid  固体 固体的  solidify vt.
         solicit  勾引 乞求  设法获得某物   (妓女)拉客
     concordance  和谐 一致性
         coordinate 坐标  协调   同等的 并列的
@@ -2479,6 +2497,7 @@ patri  patro
         parent
         masculine   男性的
         mammal 哺乳动物
+        ancestor  祖先
 patrol  巡逻
 petrol  汽油
 protocol  协议
@@ -2764,13 +2783,16 @@ as a matter of fact  其实 实际上
     fatal  fatally  致命的
     fatigue  疲劳 疲倦
         plague 瘟疫  vt.使痛苦 ~笼罩
-    flat  平的
-        inflate  膨胀 扩大
+    
     fl-  散 弱的
-    flabby  松软的 无力的  (意志)薄弱的
-    floppy  懒散的 下垂的
-        a floppy man = sluggard  懒汉
-    fluffy  毛茸茸的 蓬松的
+        flat  平的
+            inflate  膨胀 扩大
+            flatter  平整工具  阿谀奉承 取悦 炫燿
+        flabby  松软的 无力的  (意志)薄弱的
+        floppy  懒散的 下垂的
+            a floppy man = sluggard  懒汉
+        fluffy  毛茸茸的 蓬松的
+
     future
     fume  发怒 冒烟  烟  烦恼
     flame  火焰  激起 激怒
@@ -2939,7 +2961,7 @@ boost  推动 促进 提高
 likely 可能的 容易   unlikely 不可能 不会
     you are likely to find it 你 不大可能 找到它
 
-sus- sup- suf- ↑
+sus- sup- suf- sur- ↑
     sustain 持续 支持 支撑
         sustainable  development 可持续发展
         retain 保留 保持
@@ -2967,6 +2989,8 @@ sus- sup- suf- ↑
                 suffice  sufficient  sufficiency n. 足够的 充足的
                     suffice sb. in  在某方面补充某人
                     surplus  剩余的 盈余
+
+                        surpass  超越 胜过 凌驾
                 
                 
 
@@ -3166,6 +3190,7 @@ ex-
             scope 范围 眼界 审视 
         dig
             ditch  沟  抛弃
+    excretion  分泌 排泄
     excuse 借口
     extreme 极端的   extremely
         ultimate ultimately 最终地
@@ -3217,7 +3242,7 @@ ex-
             extinct volcano  死火山
         extinction 灭绝
 
-    exacerbate  加剧 恶化
+    exacerbate  加剧 恶化 激怒
     exasperate  激怒 加剧 恶化
 
 e- = out
@@ -3463,7 +3488,7 @@ in-
     incur  招致 带来 遭受
     induce
     introduce
-    intrude 侵入  intrusive  intrusion
+    intrude 侵入  intrusive  打搅的 侵扰的 intrusion
     indulge  放纵 溺于
     infer inference  推断 
     infest  骚扰  大批出没 成群出现
@@ -3670,6 +3695,7 @@ in-
         interval 间隔
         intermit  中断
             intermittent  间隔的 间歇的
+        intermediate  中级的 中间的 中间体 媒介物 调解人  调解 干涉
         interrelated 相关的
         integrate 整合 集成
             integrity  正直的  intergration
@@ -3779,7 +3805,7 @@ ob- op- of- 阻碍 反对 ↓
         abide 忍受 遵守  abide by 遵守
     obscure adj.朦胧的 模糊的 vt.使模糊 掩盖 遮藏 使难理解
         obscurity 默默无闻 晦涩 朦胧
-    obtain 获得 得到
+    obtain 获得 得到  vi. 通用 流行 存在
         obtain one's approval of 得到批准/同意
     obsolete  过时的 废弃的
         absolutely
@@ -3829,6 +3855,7 @@ ob- op- of- 阻碍 反对 ↓
     adversity 逆境
         adverst  不利的 相反的
             an adverst fortune 厄运
+        adverse  不利的 有害的 反面的
     convert   转换 转变
     invert    颠覆
     divert    转移
@@ -3931,7 +3958,7 @@ scary  吓人的
             satisfy satisfied satisfaction 满意  satisfactory  令人满意的  赎罪的
             sanction   批准 授权
                 sanctions  制裁
-        exacerbate  加剧 恶化
+        exacerbate  加剧 恶化  激怒
             exasperate  激怒 加剧 恶化
     
         
@@ -4286,7 +4313,7 @@ dominant 统治地位 占优
 
 anthropology 人类学
     ethno- 人种
-        ethics 伦理
+        ethics 伦理   ethical 伦理道德的  凭处方出售的
             ethically 伦理地
         ethos 文化精髓 = the essence of culture
             race  种族  赛跑
@@ -4326,7 +4353,7 @@ anthropology 人类学
     technology  technological  技术的
     geology  geological  地质
     biology  biological  生物的
-        bacterial 细菌的
+        bacterial 细菌的  bacteria [pl] 细菌
     pathological  病理学的  病态
     astrology  astrological  占星的
     theological   神学的
@@ -4352,6 +4379,7 @@ anthropology 人类学
     autography  自传
     telegraph   电报    telegraphic  简洁的
         telecom 电信
+        telescope  望远镜  缩短 压缩
 
 cis cid = cut 砍 杀
     suicide
@@ -4379,6 +4407,10 @@ arouse  激发 引起 唤醒
 
 territory 领土
     terrain  地形
+terrestrial  地球的 陆地的
+    aquatic  水生的
+    vertebrate  脊椎的
+    fossil   化石的  化石  食古不化的人
 terrible  可怕的 terrify
     terrifically = very
     terrific 极好的 很棒的
@@ -4413,6 +4445,20 @@ arena 活动场所 舞台
 lopsided  倾向一方的  不平衡的
 
 tropical  热带的 炎热的  热带植物
+
+hue  色彩 色调   叫声
+
+cog  齿  装齿轮
+
+parch 焦干 饥渴
+
+cellular  细胞的 松织的  手机
+
+snail  蜗牛
+
+gill 腮  用刺网捕鱼
+
+autistic  自闭的
 =================================================================
 
 
@@ -4892,12 +4938,14 @@ serve 服务 提供  service
     reserve
     deserve  值得
 
-    severe  严格的 严重的   severely 严重地 严格地 
+    severe  严格的 严重的   severely 严重地 严格地 艰难地 紧凑地
         serious 
         persevere  perseverance  坚持不懈
             uphold 支持 维持
             back  支持 backer   后退   下赌注
                 back off  后退 软化 减轻 卸下
+                backdrop  背景幕 背景
+                
 
 trade 贸易 行业 商业
 trend 趋势
@@ -4945,6 +4993,7 @@ quantity 数量
     quanlitative analysis  定性的分析
 qualify 具有资格 证明合格  修饰  qualified 合格的  certify v.证明  certificate n.证书
     qualification n. 资格
+quantify  定量 称量 量化
 quantum 量子 总量
 liquidity 流动性
     liquid 液体
@@ -5223,6 +5272,7 @@ at an end  穷途末路
 
 cloak 遮掩 覆盖 斗篷
 robe gown toga cope  长袍  应对
+    gown 长袍 长外衣  大学学生和教师
     rope 绳子
         on the ropes  岌岌可危
     wardrobe 衣橱
@@ -5275,7 +5325,7 @@ orient 定..的方位  东方的
 
 dynamic   dynamics 力量 力学
 dynasty
-    density  密度  adj.dense  稠密的
+    density  密度  adj.dense  稠密的 不易看透的  愚钝的
     dental  牙齿的
         dentist  牙医
     -----
@@ -5431,7 +5481,7 @@ rule  规则  统治 管理 裁决 支配
     ruler  统治者
     rule out  排除 用直线划掉
 
-audience 听众 观众
+audience 听众 观众  auditory  听觉的
     spectator
 auditor 审计员  听者
 auditorium  礼堂
@@ -5577,7 +5627,7 @@ Assembly  市政议会
             concordance  和谐 一致性
             cooperate  合作 协作 配合  cooperation 协作
                 corporate  adj. 公司的 共同的 全体的
-                    incorporate  包含 合并  incorporated 一体化的
+                    incorporate  包含 合并 合并的 具体表现  incorporated 一体化的
             ordinary  普通的 平常的
             extraordinary  非凡的
 
@@ -5635,6 +5685,7 @@ astr- aster- astro- star-  星
         cosmic 宇宙
             cosmology  宇宙学
             Mercury    水星 水银
+            galaxy     银河  一群显赫之人
         space 
             spatial  空间的
     astronaut  宇航员
@@ -5668,9 +5719,10 @@ plate drift 漂移
 dirty
 laundry 洗衣 
     dry  drough  干旱
+    dye  染料 染色
 draft   草稿
 
-synthetic  合成的  人造的
+synthetic  综合的 合成的  人造的
 synchronization  同步
 
 betray  背叛   泄露
@@ -5767,7 +5819,7 @@ get in the way  挡道 妨碍
 hinder  　vt. 阻碍 妨碍  后面的
     hint 暗示 提示
     hunt 打猎   hunt for 猎寻
-    haunt  萦绕心头
+    haunt  萦绕心头  常到 缠住 出没
         haunt fear
 hamper 　v. 妨碍 束缚
 hurdle 　n. 障碍 困难
@@ -5780,6 +5832,7 @@ humble   使谦逊  使感到卑微  adj. 低下的 卑贱的 简陋的 谦逊�
     humility 谦虚    
     humiliation  羞辱
         shame   dishonor  disgrace
+humanity  人类 人性 人道
 harbor  隐匿 窝藏 包庇 n.港口
     Pearl Harbor  珍珠港
     conceal  隐藏 隐瞒
@@ -5804,7 +5857,7 @@ vessel  船只 容器 束管
 vehicle  交通工具  传播媒介
 vetical 竖直的
     horizontal  水平的
-        horizon 地平线
+        horizon 地平线  视野 眼界
 
 popular  popularize
     popularity  流行 普及  名望
@@ -5814,6 +5867,7 @@ pollution   污染
 
 whisper  低语 耳语
 wipe   擦拭 消除
+    wipe out  彻底摧毁 消灭 根除
 
 ultra  超
 
@@ -5991,11 +6045,12 @@ counter-  对 假
         false  由于原物无法恢复而制造的替代品
             a false  tooth  假牙
             fabricate  伪造  制作
+                fabric  织布 布  结构
             fable  谚语
             fancy  空想 喜爱 爱好 奇特的 昂贵的
                 show fancy to 喜爱 = be fond of = adroe sth
                 fantasy  幻想
-                fascinate  入迷 着迷 
+                fascinate  入迷 着迷  fascinating 
                     be fascinated by   be obsessed with
                 fanciful  富于幻想的 奇怪的 稀奇的
                     fanciful and fickle    心猿意马的
@@ -6131,6 +6186,8 @@ up- ↑
         slug 鼻涕虫 子弹 金属块  动作缓慢的人  重击 vi. 偷懒 动作迟缓
         plug  插入 填塞  插头
         slum  贫民窟
+        sludge  泥泞 淤泥
+            muddy  泥泞的 肮脏的 混浊的 v. 弄脏 使混浊 使迷惑
     coward   懦夫
 
 -itis  病(炎症)
