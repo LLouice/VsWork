@@ -112,6 +112,7 @@ f-  飞
 -xac sac sanc thank 神圣
 -cious
 -cept
+-astic
 ====================================================================
 Prefix(emotion  orientation) + root(substance)  + suffix(function)
 顺序改变,意思不变
@@ -216,7 +217,7 @@ bureau-cracy 官僚主义  bureau-crat 官僚主义者
         demo-cracy 民主党  
         meritocracy  精英主义
             merit 优点 值得 功绩
-            elitism 精英主义  elite 精英 上层人士
+            elitism 精英主义  elite 精英 上层人士  elitist
         aristocracy  贵族主义   aristocratic  高贵的
     bureau  局
         FBI   Federal Bureau of Investigate(调查)
@@ -320,6 +321,7 @@ variable  可变的  易变的  n.变量
     invariable 永恒的  = everlasting
     invariably 不变地 permanent
 variation 变化 变异
+variant   变体 不同的
 
 in essence 本质上
 
@@ -375,6 +377,7 @@ out-
     outspeak  直言不讳
     outfit    全套装备   fitting  配件 设备
         fitness  适合度  健康 
+    outperform  成绩优于 超额完成  过度执行
 
 
     pass out  分发  昏厥
@@ -672,7 +675,7 @@ lay off  解雇
 lay emphasis on  强调 
 
 contend 声称 主张  争夺 竞争
-    advocate 提倡 拥护 主张
+    advocate 提倡 拥护 主张  为...辩护  n.辩护律师 提倡者 支持者
     contest contested dispute
         protest 抗议
     -tend
@@ -787,6 +790,7 @@ re-
     reconsider 重新考虑
     represent 代表 表示 意味着
         representative  代表 众议员  有代表性的
+        misrepresent  误称  把...颠倒黑白  错误表现
     reference 参考 提及 介绍
         refer to 涉及 提到
     reflect   反射 反映 体现  思考 考虑
@@ -798,6 +802,7 @@ re-
             dwarf  侏儒 矮的  使...变矮
             dwindle  缩小
                 swell  肿胀 膨胀   漂亮的 一流的
+    refract  使折射  [医]测定屈光度
     record    记录
         accord 符合 一致
     rely   rely for 依靠  reliant  依赖的 信赖的  reliance  信赖 信赖的人或物
@@ -825,6 +830,7 @@ re-
         perceive 注意 察觉 感知 理解 意识到
     recept  reception  接待 招待会
         receptionist  接待员
+        receptive  接受能力强的 愿意接受的  感官的
     recipe  食谱
     receipt 收据 字据
     refuge  避难所
@@ -867,6 +873,7 @@ re-
         awards  奖项 判决  v.授予 判决
         aware   知道的
             be/become aware of  意识到
+            awareness 认识 了解 知道
     realize  实现 明白 意识到  realise  觉悟 明白
     reality  现实
     realty   不动产 房地产
@@ -1016,6 +1023,7 @@ re-
             uproar  喧嚣
             growl at  咆哮   嘟哝 愤愤不平地抱怨
             soar  高扬  往上飞舞 高耸 滑翔
+            solar 太阳的
         rumor 谣言
     resort 求助 采取 手段  胜地
         sort 分类 排序  协调  交往
@@ -1110,7 +1118,7 @@ re-
     region  地区 地带
     regime  政权
     religion 宗教  religious
-        origin 起源   original  原始的
+        origin 起源   original  原始的 最初的  有独创性的 n.原件  有独创性的人
         preach 传道  pray  teach
             prey  猎物
         pray  祈祷
@@ -1226,6 +1234,7 @@ per- 彻底地
         promise  承诺
     perform 表演 执行
         performance  表演 性能 绩效 执行 表现
+        outperform  成绩优于 超额完成  过度执行
     perforate  打孔
         punch  打孔 冲压
             punctual  准时的 守时的
@@ -1613,7 +1622,7 @@ de- dis- di-
     determin v.确定 查明 决定 判决 裁定
         determinedly 决然地 果断地
     detrimental  有害的 不利的
-    deteriorate 恶化
+    deteriorate 恶化  瓦解  衰退
         ter tor = mal 坏
             tort 侵权  
             torture  酷刑 折磨 刑讯逼供
@@ -1783,6 +1792,7 @@ de- dis- di-
     deport   驱逐出境  举止 行为  deportation
     detach   分离 脱离 异
         detachment
+    deviation   偏差  出轨 背盟
     delight  愉悦
         delightful
     declaim  欢呼
@@ -1812,6 +1822,7 @@ de- dis- di-
                 distinguish v. 区别 
                     distinguished 杰出的 尊贵的
                     distinctively 独一无二地
+                    distincitive  出众的 有特色的
                     distinct 不同的  明显的  独特的 清楚的   distinctly 无疑地 确实地 逼真
                         instinct  直觉  本能   instinctive
                         intuition 直觉    intuitive 直觉的 直观的
@@ -1948,8 +1959,12 @@ de- dis- di-
                 mundance  世俗的 平凡的
             
             diligent  勤奋的 勤勉的 孜孜不倦的   diligence
+
             diffuse 传播  四散的  宣泄 舒缓  弥漫的 含糊不清的 难以理解的 
                 diffusionism 传播主义
+            diffraction  衍射
+                refract  使折射  [医]测定屈光度
+
             dilemma  难以抉择 进退两难 困境
                 be in a dilemma about whether to ... or to ...
                     i'm in a dilemma about whether to study abroad or
@@ -2166,7 +2181,8 @@ con- com- 一起 共同
     convent 修道院
     convenient  方便的  it is convenient
     convention  研讨会 惯例 习俗
-                            custom consuetude 习俗 惯例 routine  practice
+                            custom  习惯 风俗   海关
+                            consuetude 习俗 惯例 routine  practice
         conventional 传统的 常见的 惯例的  unconventional
         -ven- 来
             advent 到来 adventure
@@ -2270,7 +2286,7 @@ con- com- 一起 共同
         -lict
             afflict 折磨 
             inflicte   施加
-            explicit  明确的
+            explicit  明确的 详述的  外在的
             implicit  含蓄的 暗示的 隐式的  盲从的
     consist 包含 由...组成
         consist in/of 包含
@@ -2641,8 +2657,10 @@ adapt  适应
         adopt orphan
 
 
-draw up  制定
+draw up  起草 制定
 draw back  退缩
+draw dividend 分红
+draw on  穿上  引起 吸收 利用  临近  凭借 动用 引用  鼓励
 
 pessmistic  悲观的      negative 消极的  passive 被动的 消极的 
 optimistic  乐观的      positive
@@ -2715,6 +2733,7 @@ plead  请求 为..辩护
             argue over 辩论某事 为...争论
             argument  论点 论据 争论  争吵
                 quarrel  争吵
+    polemic  争论  辩论者  争论的
 -cribe = writing
     describe description
     subscribe 签字 订阅
@@ -2793,6 +2812,7 @@ as a matter of fact  其实 实际上
             a floppy man = sluggard  懒汉
         fluffy  毛茸茸的 蓬松的
 
+
     future
     fume  发怒 冒烟  烟  烦恼
     flame  火焰  激起 激怒
@@ -2807,6 +2827,7 @@ as a matter of fact  其实 实际上
     flick  弹开 快速的轻打  电影
         flicker  闪烁
         flutter  快速拍打 振动
+    flee  逃跑 逃走 消失  避免 回避
 
                 
     
@@ -3087,7 +3108,7 @@ more or less  差不多 或多或少
     succeed  v.取得成功   继承
     concede     承认 迁就 让步
         concession n.让步 迁就  租借
-        concede sth. to sb.  让某人做某事 授权  ~= authroize sth. / authroize sb. to do sth. ~= entitle
+        concede sth. to sb.  让某人做某事 授权  ~= authorize sth. / authorize sb. to do sth. ~= entitle
         concede sth. = admit sth.  承认
         make a concession/some concessions to  对...做出让步
     accede  继任 上位  接纳
@@ -3156,11 +3177,11 @@ ex-
     experience  n.经验 经历 vt.感受 亲身经历 发现
         empirical 经验主义的
     expire  expiration 过期 到期
-    expose  暴露   expose to
+    expose  暴露   expose to  exposure n. 暴露 曝光
     explode 爆炸 激增 迅速扩大  推翻 驳倒   explosion n.
     explain 解释 explanation
     explicable 可以解释的  inexplicable
-    explicit  明确的 明白的  explicitly 明确地
+    explicit  明确的 明白的  详述的  外在的 explicitly 明确地
         definite  adj.明确的 确定的
     exact   adj. 精确的 vt. 要求 苛求 强求  索取 罚金
         exactly  恰恰 就是 
@@ -3210,6 +3231,7 @@ ex-
         prominent   distinguish
     expel   驱逐
         deport
+    exempt  免税的 免除的
     external 外部的
         eternal(eternity)  永恒的
     exert  发挥 施加(影响)
@@ -3533,9 +3555,11 @@ in-
                         bottle 瓶子
                 victim 受害者 牺牲者
         volume 体积 卷 音量 大量
-        invalid  无效的 病人 残废者  invalidity
-            validity 效力
-            validate  使生效
+    invalid  无效的 病人 残废者  invalidity
+        validity 效力
+        validate  使生效
+    invective  恶言谩骂   谩骂的  非难的
+        
 
     intimate 亲密的朋友 v.暗示 提示  n.知己 至交  mate 伙伴 partner
         intimacy  亲密 暧昧男女
@@ -3688,6 +3712,8 @@ in-
         impinge 影响 冲击
         sovereignty  主权
     inflame  发怒 发炎
+
+    innermost  内心的  最深处
     
     inter-  间 相互
         international
@@ -3705,6 +3731,7 @@ in-
             impersonal 不受个人情感影响的 冷淡的
         interprete 口译 解释  interpretation
         internship  实习
+        intertwin   纠缠 缠绕 编结
         
         interfere  干涉  妨碍 打扰  进犯 interference
             interfere with
@@ -3736,8 +3763,14 @@ im-
     impose  强加 征
         levy/impose a heavy taxation on ..
     improve
+    impress 盖印 给..留下深刻印象
+        impressive 感人的 给人深刻印象
     impersonal 不受个人情感影响的 冷淡的
-    impulse  n.冲动
+    impel 推动 促进
+        impulse   n.冲动  vt. 推动
+            impulsive 冲动的  任性的
+            pulse  脉冲 脉搏
+    impede  阻碍 阻碍 阻止
     immediate 立即的 即时的 直接的 目前的 当前的
         immediately
         imediate manager 直接主管
@@ -3746,6 +3779,7 @@ im-
         unimaginable  难以想象的
         imaginative 创造性的 爱想象的
     impoverish 使一无所有   poverty 贫穷 
+    impeach  impeachment 弹劾
     immune 有免疫力的   immunity 免疫力   immunology  immunologist
     immerse  浸在 沉浸在
         -merse 沉在...
@@ -3766,6 +3800,7 @@ im-
     impudent  ↓ 无礼的
     immobile  不动的 固定的
     imperative  势在必行  n. 命令 诫命 需要   命令式的 急需的
+    
 
 illuminate 照亮  说明 阐明
     illuminating   富有启发的
@@ -3834,13 +3869,14 @@ ob- op- of- 阻碍 反对 ↓
                 be opposed to 反对 与..背道而驰
             opposite  相反的
             opposition  反对  反对党
+
             -ponent
-            opponent  对手 反对者  = rival
-                proponent 支持者 提倡者
-                exponent  指数=index  传人 执行者 adj.说明的 讲解的
-                component 成分 零件
-                advocate 倡议
-             opportunity 机会
+                opponent  对手 反对者  = rival
+                    proponent 支持者 提倡者
+                    exponent  指数=index  传人 执行者 adj.说明的 讲解的
+                    component 成分 零件
+                    advocate 倡议
+                opportunity 机会
 
         
 -ver-  反转 = turn
@@ -3945,7 +3981,7 @@ it looks as if it will be  看起来好像是
 
 fright 威胁 恐怖
 
-scale 规模 表
+scale 规模 表  刻度 衡量  v.依比例决定 攀登
     upscale 高档的 高收入的
 scalar 标量
 scary  吓人的
@@ -4198,7 +4234,7 @@ lack
 leak  泄漏  leakage
 peak  峰
 
-valid
+valid  有效的 正当的 合法的  有确实根据的
     available 可用的 可获得的 有空的
         be available to 可用于
         accessible  可接近的 易得的
@@ -4296,7 +4332,7 @@ vocation  天职     vocational  职业的 行业的
         vacancy
         vanity  虚荣的
     provocative 煽动性的
-    advocate 提倡 拥护 主张
+    advocate 提倡 拥护 主张 为...辩护  n.辩护律师 提倡者 支持者
         advocacy n. 倡议
         address  发表(演讲)
 recruit 招聘 recruitment
@@ -4350,6 +4386,7 @@ anthropology 人类学
         creed  信条 教义   
             Assassin's Creed 刺客信条
             assassinate 刺杀
+        tenet  教义 信条 原则 宗旨
     technology  technological  技术的
     geology  geological  地质
     biology  biological  生物的
@@ -4374,6 +4411,7 @@ anthropology 人类学
 
 -graph 图
     photograph  照片
+        photon  光子
     paragraph   段落
     geography   地理
     autography  自传
@@ -4459,6 +4497,11 @@ snail  蜗牛
 gill 腮  用刺网捕鱼
 
 autistic  自闭的
+
+besiege   围攻 包围
+
+thwart  横  反对 阻碍  横过
+
 =================================================================
 
 
@@ -4668,6 +4711,7 @@ authentic 真正的 可信的
         authenticate   认证 甄别 鉴别
         authoritative  有权威的 命令式的  当局的
             canonical  规范 权威的
+        authoritarian  权力主义的 独裁主义的  独裁主义者
     feasible  可行的
 athlete 运动员
 aesthetic 审美
@@ -4804,7 +4848,7 @@ cri-
                 skeptic  怀疑论者
                 skeptical 怀疑的  be skeptical of
             critique n. 评论 批评  vt. 批判 发表评论
-        criticise v. 批评
+        criticise v. 批评 评论  吹毛求疵
         criticism n. 批评 指责 评论
         be critical of 
         crisis  危机
@@ -4848,6 +4892,7 @@ vulgar  庸俗的
 para-  部分  偏
     parallel 平行
         unparalleled 无比的 空前的
+    parallax 视差
     parachute 降落伞
         chute 斜坡(cline) 瀑布 = big slide 大滑坡
         helicopter
@@ -4978,7 +5023,7 @@ start up 崭露头角
 
 nov- 新
     novel n.小说 adj.新奇的
-    novelty n.新颖
+    novelty n.新颖  小装饰
     innovate 
     renovate  翻新
 
@@ -4988,6 +5033,7 @@ quality 质量 品质 优点
         equipment 装备
     equivocal 模棱两可的 = ambiguous  vogue 模糊的
     equator  赤道
+        orbital  轨道的  眼窝的
 quantity 数量
     quantitative 定量的  数量的
     quanlitative analysis  定性的分析
@@ -5039,6 +5085,9 @@ off
 up
     take up  占用 开始从事  接受
 
+down
+    pin down  确定 下结论  用针固定住 压住
+
 
 cherry-tree-chopping 砍樱桃树
 peach  桃子 告发
@@ -5060,7 +5109,7 @@ crack 裂缝
 -spir- = breath 气神
     spirit  spiritual
         spirits  鬼魂 酒
-    inspire 激励 鼓舞 启发 赋予灵感
+    inspire 激励 鼓舞 启发 赋予灵感  激发 煽动  吸入
         owe my success to 99% perspiration(汗水) and 1% inspiration
     aspire 有志于 向往  aspiration 抱负 愿望 吸气
         aspire to  渴望 立志
@@ -5071,6 +5120,7 @@ crack 裂缝
         conspiracy  阴谋
             spy 间谍
         intrigue  密谋 阴谋 捣鬼
+        pitfall   陷阱 诱惑 阴谋
     prosper  繁荣
     exasperate  激怒 加剧 恶化
 
@@ -5182,7 +5232,7 @@ rape  强奸
     rapture  欣喜若狂  rap 骂人
         rupture  破裂
     rapidly
-    trap  陷阱 圈套  困住
+    trap  陷阱 圈套  困住   双轮马车
         tape  磁带 录音带  tap  窃听
 
 
@@ -5408,7 +5458,7 @@ drama 戏剧  theater(剧院)  Peking Opera(歌剧)
     dramatic 戏剧的 突如其来的
         diramtically 引人注目地 急剧地
             rise up dramatically by 30% 猛增了
-drastic 激烈的 极端的 
+drastic 激烈的 极端的  极其严重的
 
 over-
     overdue  逾期的
@@ -5584,6 +5634,7 @@ splice  拼接
 spot 点 污点  地点 现场的
     spotlight 聚光灯
         close-up 特写镜头
+    smear  涂擦 涂片标本 油渍 污点  诋毁 诽谤
 
 amateur  业余的
     mature 成熟的
@@ -5629,7 +5680,7 @@ Assembly  市政议会
                 corporate  adj. 公司的 共同的 全体的
                     incorporate  包含 合并 合并的 具体表现  incorporated 一体化的
             ordinary  普通的 平常的
-            extraordinary  非凡的
+            extraordinary  非凡的  特别的 特派的
 
 lobby  大堂 休息室  游说
 
@@ -5681,11 +5732,12 @@ gl-  光
 
 
 astr- aster- astro- star-  星
-    astronomy  天文学
+    astronomy  天文学  astronomical 天文学的 巨大的
         cosmic 宇宙
             cosmology  宇宙学
             Mercury    水星 水银
             galaxy     银河  一群显赫之人
+            solar      太阳的
         space 
             spatial  空间的
     astronaut  宇航员
@@ -5753,6 +5805,16 @@ lump  块 肿块 一团
 lamp  灯  照亮
 lamb  羊羔  goat 山羊
 limb  四肢  树枝 边缘  vt.切断手足 切断树干
+
+drum  鼓
+    drumbeat  鼓声  大肆吹捧  连珠炮似的抨击
+
+bulk  块 体积 大批地
+bulb  电灯泡  球状物
+bump  肿块 碰撞
+bunk  铺位
+bubble  泡沫
+
 
 body  具体的
 role model  榜样
@@ -6084,6 +6146,7 @@ tri- 三个
             pentagon  五角大楼
             polygon   多边形
     triplets  三胞胎
+    trivial  琐碎的  不重要的
 
 qua- 四 方 满
     quarter  一刻钟
@@ -6240,6 +6303,12 @@ up- ↑
     malicious 
     audacious  大胆的 有冒险精神的  厚颜无耻的 莽撞
     
+-astic
+    drastic 激烈的 极端的  极其严重的
+    enthusiastic  热情的  enthusiasm 热情
+    elastic ~往外延伸     -> 有弹性的   n. 橡皮筋
+    fantastic
+    iconolastic  批评传统信仰的
     
 --------------------- Sentence ----------------------------
 Every cloud has a sliver lining.
