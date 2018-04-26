@@ -1,0 +1,22 @@
+Firefox 迁移
+1. 另设profile,同步扩展
+2. 扩展
+    new 
+        image picka
+        reverse Image Search
+        Ultimate QR-code Generator
+        Gesturefy [disabled]
+        Video Speed Controller
+        uBlock Origin
+        Imagus
+        Text Link
+        Fory Gestures
+        Download all images
+        Tab Open/Close control
+        xStyle
+        二维码扫描器
+        Proxy SwitchyOmega [disabled]
+        闪耀拖拽
+3. 样式
+4. UC脚本 油猴脚本
+5. 鼠标手势 => Foxy Gestures

@@ -1,0 +1,28 @@
+/*column bookmark*/
+#bookmarksMenu menupopup .scrollbox-innerbox,
+ .bookmark-item[container="true"]:-moz-any(
+[label="书签工具栏"],[label="未分类书签"],[label="好站"],[label="Mozilla Firefox"],[label="常去"],[label="学习"],[label="最近"]
+) menupopup .scrollbox-innerbox,#PlacesChevronPopup  .scrollbox-innerbox
+{
+width: 850px !important; /*显示宽度*/
+/* width: 750px !important; *//*4 columns*/
+display: table !important;
+}
+#bookmarksMenu .bookmark-item,
+ .bookmark-item[container="true"] .bookmark-item,#PlacesChevronPopup  .bookmark-item
+{
+min-width: 200px !important;/*书签标题宽度*/
+max-width: 200px !important;
+margin-left: 8px !important;
+}
+#bookmarksMenu menupopup menuseparator, .bookmark-item[container="true"] menupopup menuseparator/*#PlacesChevronPopup menuseparator*/
+{
+display: block !important;
+margin-bottom: 8px !important;
+}
+#bookmarksMenu scrollbox, .bookmark-item[container="true"] scrollbox,#PlacesChevronPopup scrollbox
+{
+overflow-y: auto !important;
+}
+.popup-internal-box{background: #fefefe !important;}
+/*.box-inherit scrollbox-innerbox{display: none !important;}*/
