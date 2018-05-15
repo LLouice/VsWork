@@ -1,4 +1,4 @@
-## ??
+## 架构
 
 <pre>
 start
@@ -33,7 +33,7 @@ start
 `-- README.md
 </pre>
 
-## canvas??????
+## canvas坐标获取
 ```js
 var x = event.clientX - canvas.getBoundingClientRect().left;
 var y = event.clientY - canvas.getBoundingClientRect().top;
@@ -46,4 +46,4 @@ var y = event.offsetY
 
 
 ##Pantograph
-> ??????????
+> 通过命令行实现通信
