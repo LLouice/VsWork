@@ -19,7 +19,7 @@ def Bspline(i, k, u, node_vector):
             length2 == 1
         
         Nik_u = (u - node_vector[i]) / length1 * Bspline(i, k-i, u, node_vector) + 
-                    (node_vector[i+k+1] -u) / length2 * Bspline(i+1, k-1, u, node_vector) )
+                    (node_vector[i+k+1] -u) / length2 * Bspline(i+1, k-1, u, node_vector)
 
 def U_quasi_uniform(n, k):
     '''
@@ -27,7 +27,7 @@ def U_quasi_uniform(n, k):
     '''
 
     node_vector = zeros(n+k+2)
-    # 内结点 n-k 个 段数 n-k+1
+    # 内结点 n-k+1 个 段数 n-k
     piecewise = n-k+1  #曲线的段数
     if piecewise == 1:  #只有一段曲线时, n = k   0...n  n+1...n+k+1
         for i in range(n+1, n+k+2):
@@ -56,8 +56,8 @@ def U_piecewise_Bezier(n, k):
 
         piecewise = n / k
         flag = 0
-        if piecewise >1
-            for i in range(piecewise-1)  # 共 piecewise-1组
+        if piecewise >1:
+            for i in range(piecewise-1):  # 共 piecewise-1组
                 for j in range(k+1):  # k 重复度
                     node_vector[k+1+flag*k+j] = (i+1) / piecewise
                 
@@ -90,6 +90,12 @@ def drawSpline(n ,k ,P, node_vector):
             line([tempx p_u[1][0]], [tempy p_u[1][0]], 'Marker','.','LineStyle','-', 'Color',[.3 .6 .9], 'LineWidth',3)
             tmpx = p_u[0][0]
             tmpy = p_u[1][0]
+
+if __name__ == "__main__":
+    P = np.array([[9.036145, 21.084337, 37.607573, 51.893287, 61.187608],
+    [51.779661, 70.084746, 50.254237, 69.745763, 49.576271]])
+
+
             
 
              
