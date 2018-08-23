@@ -3165,7 +3165,7 @@ ex-
     express 表达 表示   特快的 明确的
         expression 表达 表示 表情 神情   re-express 重申
         oppression 压迫
-    explore 探索
+    explore 探索  exploratory
         deplore  痛惜 悲悼  谴责
             deplorable  可悲的 凄惨的
     export  出口 输出
@@ -4008,6 +4008,7 @@ screw 螺丝 -> scru 认真的
     fass 大惊小怪
         make a fuss over/of   对...特别在意 大惊小怪
 scratch  刮 抓
+    from scratch 从头开始
 score 分数 得分 进球
 sccore  足球
 
